@@ -1,4 +1,15 @@
-## Do Extract Public and src First
+
+# Job Portal For Indian Market
+
+
+
+
+## Tech Stack
+ 
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
 
 
 ## Features
@@ -39,14 +50,17 @@ First extract whole Folders like:
 2.Src
 
 Install the project dependencies using npm:
-
+```bash
 npm install 
-
+```
 
 ## Running the Project
-
+```bash
 npm run dev
-
+```
 Open http://localhost:5173 in your browser to view the project.
 
+
+## Features
+We are going to provide a platform where one can find job of their want with advanced searching sorting filtering and more often will also provide many industry relevant carrier resources for students betterment. 
 
